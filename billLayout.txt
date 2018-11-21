@@ -1,0 +1,450 @@
+<!-- <table class="tg" id="tab_customers">
+    <thead>
+  <tr>
+    <th class="tg-xldj" colspan="7" style="padding-bottom: 2%">
+      <p>
+        GETAFE WATER SYSTEM <br>
+        GETAFE, BOHOL
+        </p>
+    </th>
+  </tr>  </thead>
+  <tr>
+    <td class="tg-xldj" colspan="2">Account Number</td>
+    <td class="tg-xldj" colspan="2">Meter Serial No.</td>
+    <td class="tg-0pky">Type</td>
+    <td class="tg-0pky">Due Date</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj" colspan="2">12345</td>
+    <td class="tg-xldj" colspan="2">4321</td>
+    <td class="tg-0pky">test</td>
+    <td class="tg-0pky">Dec</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6" style="text-align: left !important">Name: <b>Test Customer</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Period Covered</td>
+    <td class="tg-0pky" colspan="2">Reading</td>
+    <td class="tg-0pky" colspan="2">Actual Used</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Month</td>
+    <td class="tg-0pky">Year</td>
+    <td class="tg-0pky">Present</td>
+    <td class="tg-0pky">Previous</td>
+    <td class="tg-0pky">(cu. M.)</td>
+    <td class="tg-0pky">Amount</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nov.</td>
+    <td class="tg-0pky">2018</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">275</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky exclude" colspan="4" rowspan="3" style="border-right-color: transparent; border-bottom-color: transparent;"></td>
+    <td class="tg-0pky exclude" style="border-bottom-color: transparent;">Other Charges</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Excess</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Total Dues</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" colspan="6" style="border-top-color: transparent; text-align: left !important">
+      <p>Month<span style="padding-left: 2%">__________________________________________</span></p>
+      <div style="margin-left: 50px">
+        Please pay this bill within 5 days or we have
+        <br>to discontinue serving your water needs.
+        <br>(If payment has been made, please disregard this notice.)
+        <br><br>
+        <b>STATEMENT ACCOUNT</b><span style="padding-left: 20%"><b>No.</b></span>
+      </div>
+    </td>
+  </tr>
+</table>
+<table class="tg" id="tab_customers" style="margin-top: 5%">
+    <thead>
+  <tr>
+    <th class="tg-xldj" colspan="7" style="padding-bottom: 2%">
+      <p>
+        GETAFE WATER SYSTEM <br>
+        GETAFE, BOHOL
+        </p>
+    </th>
+  </tr>  </thead>
+  <tr>
+    <td class="tg-xldj" colspan="2">Account Number</td>
+    <td class="tg-xldj" colspan="2">Meter Serial No.</td>
+    <td class="tg-0pky">Type</td>
+    <td class="tg-0pky">Due Date</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj" colspan="2">12345</td>
+    <td class="tg-xldj" colspan="2">4321</td>
+    <td class="tg-0pky">test</td>
+    <td class="tg-0pky">Dec</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6" style="text-align: left !important">Name: <b>Test Customer</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Period Covered</td>
+    <td class="tg-0pky" colspan="2">Reading</td>
+    <td class="tg-0pky" colspan="2">Actual Used</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Month</td>
+    <td class="tg-0pky">Year</td>
+    <td class="tg-0pky">Present</td>
+    <td class="tg-0pky">Previous</td>
+    <td class="tg-0pky">(cu. M.)</td>
+    <td class="tg-0pky">Amount</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nov.</td>
+    <td class="tg-0pky">2018</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">275</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky exclude" colspan="4" rowspan="3" style="border-right-color: transparent; border-bottom-color: transparent;"></td>
+    <td class="tg-0pky exclude" style="border-bottom-color: transparent;">Other Charges</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Excess</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Total Dues</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" colspan="6" style="border-top-color: transparent; text-align: left !important">
+      <p>Month<span style="padding-left: 2%">__________________________________________</span></p>
+      <div style="margin-left: 50px">
+        Please pay this bill within 5 days or we have
+        <br>to discontinue serving your water needs.
+        <br>(If payment has been made, please disregard this notice.)
+        <br><br>
+        <b>STATEMENT ACCOUNT</b><span style="padding-left: 20%"><b>No.</b></span>
+      </div>
+    </td>
+  </tr>
+</table>
+<table class="tg" id="tab_customers" style="margin-top: 5%">
+    <thead>
+  <tr>
+    <th class="tg-xldj" colspan="7" style="padding-bottom: 2%">
+      <p>
+        GETAFE WATER SYSTEM <br>
+        GETAFE, BOHOL
+        </p>
+    </th>
+  </tr>  </thead>
+  <tr>
+    <td class="tg-xldj" colspan="2">Account Number</td>
+    <td class="tg-xldj" colspan="2">Meter Serial No.</td>
+    <td class="tg-0pky">Type</td>
+    <td class="tg-0pky">Due Date</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj" colspan="2">12345</td>
+    <td class="tg-xldj" colspan="2">4321</td>
+    <td class="tg-0pky">test</td>
+    <td class="tg-0pky">Dec</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6" style="text-align: left !important">Name: <b>Test Customer</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Period Covered</td>
+    <td class="tg-0pky" colspan="2">Reading</td>
+    <td class="tg-0pky" colspan="2">Actual Used</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Month</td>
+    <td class="tg-0pky">Year</td>
+    <td class="tg-0pky">Present</td>
+    <td class="tg-0pky">Previous</td>
+    <td class="tg-0pky">(cu. M.)</td>
+    <td class="tg-0pky">Amount</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nov.</td>
+    <td class="tg-0pky">2018</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">275</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky exclude" colspan="4" rowspan="3" style="border-right-color: transparent; border-bottom-color: transparent;"></td>
+    <td class="tg-0pky exclude" style="border-bottom-color: transparent;">Other Charges</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Excess</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Total Dues</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" colspan="6" style="border-top-color: transparent; text-align: left !important">
+      <p>Month<span style="padding-left: 2%">__________________________________________</span></p>
+      <div style="margin-left: 50px">
+        Please pay this bill within 5 days or we have
+        <br>to discontinue serving your water needs.
+        <br>(If payment has been made, please disregard this notice.)
+        <br><br>
+        <b>STATEMENT ACCOUNT</b><span style="padding-left: 20%"><b>No.</b></span>
+      </div>
+    </td>
+  </tr>
+</table>
+<table class="tg" id="tab_customers">
+    <thead>
+  <tr>
+    <th class="tg-xldj" colspan="7" style="padding-bottom: 2%">
+      <p>
+        GETAFE WATER SYSTEM <br>
+        GETAFE, BOHOL
+        </p>
+    </th>
+  </tr>  </thead>
+  <tr>
+    <td class="tg-xldj" colspan="2">Account Number</td>
+    <td class="tg-xldj" colspan="2">Meter Serial No.</td>
+    <td class="tg-0pky">Type</td>
+    <td class="tg-0pky">Due Date</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj" colspan="2">12345</td>
+    <td class="tg-xldj" colspan="2">4321</td>
+    <td class="tg-0pky">test</td>
+    <td class="tg-0pky">Dec</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6" style="text-align: left !important">Name: <b>Test Customer</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Period Covered</td>
+    <td class="tg-0pky" colspan="2">Reading</td>
+    <td class="tg-0pky" colspan="2">Actual Used</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Month</td>
+    <td class="tg-0pky">Year</td>
+    <td class="tg-0pky">Present</td>
+    <td class="tg-0pky">Previous</td>
+    <td class="tg-0pky">(cu. M.)</td>
+    <td class="tg-0pky">Amount</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nov.</td>
+    <td class="tg-0pky">2018</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">275</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky exclude" colspan="4" rowspan="3" style="border-right-color: transparent; border-bottom-color: transparent;"></td>
+    <td class="tg-0pky exclude" style="border-bottom-color: transparent;">Other Charges</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Excess</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Total Dues</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" colspan="6" style="border-top-color: transparent; text-align: left !important">
+      <p>Month<span style="padding-left: 2%">__________________________________________</span></p>
+      <div style="margin-left: 50px">
+        Please pay this bill within 5 days or we have
+        <br>to discontinue serving your water needs.
+        <br>(If payment has been made, please disregard this notice.)
+        <br><br>
+        <b>STATEMENT ACCOUNT</b><span style="padding-left: 20%"><b>No.</b></span>
+      </div>
+    </td>
+  </tr>
+</table>
+<table class="tg" id="tab_customers" style="margin-top: 5%">
+    <thead>
+  <tr>
+    <th class="tg-xldj" colspan="7" style="padding-bottom: 2%">
+      <p>
+        GETAFE WATER SYSTEM <br>
+        GETAFE, BOHOL
+        </p>
+    </th>
+  </tr>  </thead>
+  <tr>
+    <td class="tg-xldj" colspan="2">Account Number</td>
+    <td class="tg-xldj" colspan="2">Meter Serial No.</td>
+    <td class="tg-0pky">Type</td>
+    <td class="tg-0pky">Due Date</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj" colspan="2">12345</td>
+    <td class="tg-xldj" colspan="2">4321</td>
+    <td class="tg-0pky">test</td>
+    <td class="tg-0pky">Dec</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6" style="text-align: left !important">Name: <b>Test Customer</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Period Covered</td>
+    <td class="tg-0pky" colspan="2">Reading</td>
+    <td class="tg-0pky" colspan="2">Actual Used</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Month</td>
+    <td class="tg-0pky">Year</td>
+    <td class="tg-0pky">Present</td>
+    <td class="tg-0pky">Previous</td>
+    <td class="tg-0pky">(cu. M.)</td>
+    <td class="tg-0pky">Amount</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nov.</td>
+    <td class="tg-0pky">2018</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">275</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky exclude" colspan="4" rowspan="3" style="border-right-color: transparent; border-bottom-color: transparent;"></td>
+    <td class="tg-0pky exclude" style="border-bottom-color: transparent;">Other Charges</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Excess</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Total Dues</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" colspan="6" style="border-top-color: transparent; text-align: left !important">
+      <p>Month<span style="padding-left: 2%">__________________________________________</span></p>
+      <div style="margin-left: 50px">
+        Please pay this bill within 5 days or we have
+        <br>to discontinue serving your water needs.
+        <br>(If payment has been made, please disregard this notice.)
+        <br><br>
+        <b>STATEMENT ACCOUNT</b><span style="padding-left: 20%"><b>No.</b></span>
+      </div>
+    </td>
+  </tr>
+</table>
+<table class="tg" id="tab_customers" style="margin-top: 5%">
+    <thead>
+  <tr>
+    <th class="tg-xldj" colspan="7" style="padding-bottom: 2%">
+      <p>
+        GETAFE WATER SYSTEM <br>
+        GETAFE, BOHOL
+        </p>
+    </th>
+  </tr>  </thead>
+  <tr>
+    <td class="tg-xldj" colspan="2">Account Number</td>
+    <td class="tg-xldj" colspan="2">Meter Serial No.</td>
+    <td class="tg-0pky">Type</td>
+    <td class="tg-0pky">Due Date</td>
+  </tr>
+  <tr>
+    <td class="tg-xldj" colspan="2">12345</td>
+    <td class="tg-xldj" colspan="2">4321</td>
+    <td class="tg-0pky">test</td>
+    <td class="tg-0pky">Dec</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6" style="text-align: left !important">Name: <b>Test Customer</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">Period Covered</td>
+    <td class="tg-0pky" colspan="2">Reading</td>
+    <td class="tg-0pky" colspan="2">Actual Used</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Month</td>
+    <td class="tg-0pky">Year</td>
+    <td class="tg-0pky">Present</td>
+    <td class="tg-0pky">Previous</td>
+    <td class="tg-0pky">(cu. M.)</td>
+    <td class="tg-0pky">Amount</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nov.</td>
+    <td class="tg-0pky">2018</td>
+    <td class="tg-0pky">30</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">275</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky exclude" colspan="4" rowspan="3" style="border-right-color: transparent; border-bottom-color: transparent;"></td>
+    <td class="tg-0pky exclude" style="border-bottom-color: transparent;">Other Charges</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Excess</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" style="border-bottom-color: transparent;">Total Dues</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax exclude" colspan="6" style="border-top-color: transparent; text-align: left !important">
+      <p>Month<span style="padding-left: 2%">__________________________________________</span></p>
+      <div style="margin-left: 50px">
+        Please pay this bill within 5 days or we have
+        <br>to discontinue serving your water needs.
+        <br>(If payment has been made, please disregard this notice.)
+        <br><br>
+        <b>STATEMENT ACCOUNT</b><span style="padding-left: 20%"><b>No.</b></span>
+      </div>
+    </td>
+  </tr>
+</table> -->

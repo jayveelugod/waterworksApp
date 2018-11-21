@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Water Bill Application</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="css/google-fonts.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/page-css.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/datepicker.css">
+  </head>
+
+  <body>
+    <div class="masthead">
+      <div class="masthead-bg"></div>
+      <div class="container h-100">
+        <div class="row h-100">
+          <div class="col-12 my-auto">
+            <div class="masthead-content text-white py-5 py-md-0">
+              <h1 class="mb-3">Coming Soon!</h1>
+              <p class="mb-5">We're working hard to finish the development of this site. Our target launch date is
+                <strong>January 2019</strong>! Sign up for updates using the form below!</p>
+              <div class="input-group input-group-newsletter">                
+                <div class="input-group-append uploadDiv">
+                  <label class="btn btn-secondary">
+                      Upload Data <input type="file" id="csvFileInput" onchange="handleFiles(this.files)" accept=".csv" hidden>
+                  </label>
+                </div>
+
+                <div class="row monthYearDivRow" hidden>
+                  <div class="col-md-6">
+                      <span>Month *</span>
+                      <select id="month" class="form-control" required></select>
+                  </div>
+                  <div class="col-md-6">
+                      <span>Year *</span>
+                      <select id="year" class="form-control" required></select>
+                  </div>
+                </div>
+                    
+                <div class="input-group-append continueToBillBtn" hidden>
+                  <label class="btn btn-success">Create Bill <input type='button' onclick='extractToBill()' hidden></label><br>
+                </div>
+                <div class="input-group-append printPDF" hidden>
+                  <label class="btn btn-primary">
+                      Print PDF <input type="button" onclick="printPDF()" hidden>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="social-icons">
+        <div id="billSection"></div>
+    </div>
+
+    <script src="js/jquery-3.3.1.min.js"></script> 
+    <script src="js/script.js"></script>
+    <script src="js/bootstrap.js"></script> 
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap-datepicker.js"></script> 
+  </body>
+
+</html>

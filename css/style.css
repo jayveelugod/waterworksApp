@@ -1,0 +1,61 @@
+.tg  {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+.tg td {
+    font-family:Arial, sans-serif;
+    font-size:10px;
+    padding:5px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    border-color:black;
+}
+.tg th {
+    font-family:Arial, sans-serif;
+    font-size:10px;
+    font-weight:normal;
+    padding:5px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    border-color:black;
+}
+.tg .tg-xldj {
+    border-color:inherit;
+    text-align:left
+}
+.tg .tg-0lax {
+    text-align:left;
+    vertical-align:top
+}
+table { 
+    width: 100%; 
+    border: 2px solid
+}
+td, th {
+    text-align: center !important
+}
+#billSection {
+    width: 100%;
+    max-height: 50em;
+    overflow-y: scroll;
+    padding-right: 20px;
+}
+
+.monthYearDivRow {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.continueToBillBtn, .printPDF {
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.social-icons {
+    width: 60%;
+    top: 5em;
+}
